@@ -26,12 +26,3 @@
 - **API 服务商**：智谱 AI (GLM-5.2 模型)
 - **运行环境**：iPad / macOS / Windows（Python 版跨平台）
 
----
-
-### 运行邮件润色器（Python）
-```bash
-# 安装依赖
-pip install requests
-
-# 运行脚本
-python Email_polisher.py
