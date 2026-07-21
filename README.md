@@ -28,13 +28,6 @@
 
 ---
 
-## 🚀 快速开始
-
-### 环境准备
-1. 注册 [智谱AI开放平台](https://open.bigmodel.cn/) 账号。
-2. 获取你的 API Key（在控制台「API Keys」页面创建）。
-3. 将代码中的 `YOUR_API_KEY_HERE` 替换为你的真实 Key。
-
 ### 运行邮件润色器（Python）
 ```bash
 # 安装依赖
